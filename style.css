@@ -3,6 +3,11 @@ body {
   padding: 0;
   overflow: hidden; 
 }
+@media (max-width: 600px) {
+  header {
+    font-size: 14px;
+  }
+}
 
 .firstPage {
   width: 100%;
